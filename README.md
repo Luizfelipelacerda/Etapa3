@@ -9,4 +9,4 @@ o	Se ele não consegue mais virar à direita (já tentou o passo 2 quatro vezes)
 Ele anda pelo grid e visita quantas células ele conseguir. Seu objetivo é descobrir quantas células ele visitou antes de parar.
 
 ## Como Usar
-Pelo CMD navege ate o diretorio aonde baixou o arquivo "Etapa3.jar"  e use o comando java -jar Etapa3.jar, insira os numeros.
+Pelo CMD navege ate o diretorio aonde baixou o arquivo "Etapa3.jar"  e use o comando java "-jar Etapa3.jar", insira os numeros.
